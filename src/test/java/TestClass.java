@@ -43,7 +43,7 @@ public class TestClass {
       driver = null;
 
       System.out.println("Driver is null");
-      System.out.println("Driver is null 2");
+      System.out.println("Driver is null 3");
 
    }
 
